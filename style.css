@@ -14,3 +14,9 @@
 .black {
   background-color: #381a10;
 }
+.stButton>button{
+    color: #000000;
+    height: 3em;
+    width: 7em;
+    padding: 1px;
+}
