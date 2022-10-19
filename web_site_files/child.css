@@ -1,0 +1,26 @@
+.posts__plate_bg {
+	background-color: #e0e0e0;
+	background-position: center center;
+}
+.interest__img {
+	background-color: #e0e0e0;
+}
+.interest__descr{
+	flex: 1;
+}
+.posts__content{
+	width: 100%;
+}
+
+.wpcf7 form.sent .wpcf7-response-output{
+	border-color: #46b450;
+    background: #46b450;
+    color: #fff;
+}
+
+@media (min-width: 768px){
+	.post .posts__title{
+		font-size: 2.3em;
+	}
+}
+

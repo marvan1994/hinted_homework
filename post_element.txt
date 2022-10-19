@@ -1,0 +1,333 @@
+<article class="post__content">
+
+        <header class="post__top">
+                            <div class="posts__plate">
+                    <div class="posts__plate_bg bg2" style="background-image: url('/library/wp-content/uploads/2022/04/periodicheskij-zakon-i-periodicheskaya-sistema-himicheskih-elementov-d.i.-mendeleeva.-1.png')"></div>
+                    <a href="https://umschool.net/library/category/himiya/" class="posts__tag bage bage2">Химия</a>
+                    <div class="posts__content">
+                        <h1 class="posts__title">Периодический закон и периодическая система химических элементов Д. И. Менделеева</h1>
+                        <div class="posts__bottom">
+                            <div class="posts__date">6.4.2022</div>
+                            <div class="posts__look">
+                                                                <i class="icon_look"> </i>
+                                                                    4759                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+        </header>
+
+                    <div class="desktop">
+                <div class="share">
+    <div class="share__label desktop">Поделитесь статьей  в социальных сетях:</div>
+    <div class="share__list">
+        <a href="https://vk.com/share.php?url=http://umschool.net/libraryhttps://umschool.net/library/himiya/periodicheskij-zakon-i-periodicheskaya-sistema-himicheskih-elementov-d-i-mendeleeva/" class="soc__link soc__link-share soc__link_vk" rel="nofollow" target="_blank"></a>
+<!--        <a href="http://www.twitter.com/intent/tweet?url=--><!--&text=--><!--" class="soc__link soc__link-share soc__link_twitter" rel="nofollow" target="_blank"></a>-->
+    </div>
+</div>
+            </div>
+
+            <!--<div class="author">
+                <div class="author__photo">
+                    <img src="http://1.gravatar.com/avatar/afc7ae2e2a731ffe73c085974ef1bb88?s=120&#038;d=mm&#038;r=g" width="120" height="120" alt="Аватар" class="avatar avatar-120wp-user-avatar wp-user-avatar-120 alignnone photo avatar-default" />                </div>
+                <div class="author__descr">
+                    <div class="author__name">Фиксики</div>
+                    <div class="author__prof"></div>
+                </div>
+            </div>-->
+        
+        <div class="post__text">
+            
+<p>Химические элементы — законопослушные граждане! Они подчиняются Периодическому закону, о котором сейчас пойдет речь.</p>
+
+
+
+<h3 class="has-text-align-center"><strong>На этой странице вы узнаете:&nbsp;</strong></h3>
+
+
+
+<ul><li>Закономерности изменения химических свойств элементов&nbsp; и их соединений по периодам и группам в Периодической системе.</li><li>Как связаны снеговик и радиус атома?&nbsp;</li></ul>
+
+
+
+<h2 class="has-text-align-center" id="part1">Формулировка периодического закона</h2>
+
+
+
+<p>В 1869 г. Д.И.Менделеев сформулировал <strong>периодический закон</strong>, современная формулировка которого звучит следующим образом:</p>
+
+
+
+<p class="has-background" style="background-color:#e9e0f1">Свойства химических элементов находятся в периодической зависимости от заряда ядра атомов химических элементов.</p>
+
+
+
+<p>Давай разберем подробнее, <strong>как именно</strong> зависят свойства элемента от местонахождения в Периодической системе.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/library/wp-content/uploads/2022/04/1-15.png" alt="" class="wp-image-4455" width="551" height="359" srcset="/library/wp-content/uploads/2022/04/1-15.png 1000w, /library/wp-content/uploads/2022/04/1-15-300x195.png 300w, /library/wp-content/uploads/2022/04/1-15-768x500.png 768w" sizes="(max-width: 551px) 100vw, 551px"></figure></div>
+
+
+
+<h2 class="has-text-align-center" id="part2"><span id="изменение_металлических_и_неметаллических_свойств_атомов_в_зависимости_от_положения_химического_элемента_в_Периодической_системе_Д_И_Менделеева"></span><strong>Закономерности изменения химических свойств элементов</strong></h2>
+
+
+
+<ul id="понятие_окислительно_восстановительных_свойств"><li id="изменение_окислительных_и_восстановительных_свойств_атомов_в_зависимости_от_положения_химического_элемента_в_Периодической_системе_Д_И_Менделеева"><strong><em>&nbsp;</em></strong><strong>Металлические/восстановительные свойства</strong></li></ul>
+
+
+
+<p class="has-background" style="background-color:#e9e0f1">Под металлическими свойствами подразумевают способность атомов отдавать электроны. </p>
+
+
+
+<p id="местонахождение_неметаллов_в_Периодической_системе_Д_И_Менделеева_и_особенности_строения_их_атомов"><span id="местонахождение_металлов_в_Периодической_системе_Д_И_Менделеева_и_особенности_строения_их_атомов"></span>Можно провести воображаемую линию, которая начинается у атома бора и заканчивается у атома астата. Так вот, все элементы, которые попадут в левую область таблицы будут являться <strong>металлами</strong>, а элементы главных подгрупп, которые попадут в правую часть — <strong>неметаллами</strong>. </p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td>Поэтому металлические/восстановительные свойства в периодах увеличиваются справа налево, а в группах — сверху вниз (т.е. при движении к францию).&nbsp;</td></tr></tbody></table></figure>
+
+
+
+<ul><li><strong>Неметаллические/окислительные свойства</strong>&nbsp;</li></ul>
+
+
+
+<p>Здесь работает все с точностью наоборот: они будут увеличиваться слева направо в периодах, а в группах — снизу вверх (т.е. при движении к фтору).</p>
+
+
+
+<ul id="изменение_радиуса_атомов_в_зависимости_от_положения_химического_элемента_в_Периодической_системе_Д_И_Менделеева"><li><strong>Радиус атома</strong></li></ul>
+
+
+
+<p>При движении по периоду увеличивается число электронов на соответствующем валентном уровне — электрончики начинают сильнее притягиваться к положительному ядру, тем самым «сжимая» размер радиуса. Т.е. радиус атома уменьшается слева направо при движении по периоду.</p>
+
+
+
+<p>При движении по группе сверху вниз увеличивается число электронных оболочек, атом становится «толще», поэтому сверху вниз по группе радиус атома увеличивается.</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Как связаны снеговик и радиус атома?</strong><br><img src="/library/wp-content/uploads/2022/04/2-14.png" style="width: 400px;" alt=""><br>С увеличением номера периода количество электронных слоев растет, а значит, увеличивается и радиус атома; но так как к фтору увеличивается электроотрицательность, то электроны всё ближе и ближе «прижимаются» к ядру атома: атомный радиус уменьшается.&nbsp;<br><br>Проще всего это представить в виде снеговика, у которого самая «маленькая» голова и самое «большое» туловище. Именно так увеличивается радиус ядра атома по группе.</td></tr></tbody></table></figure>
+
+
+
+<ul id="понятия_электроотрицательности_и_ионизации_химических_элементов"><li id="изменение_электроотрицательности_атомов_в_зависимости_от_положения_химического_элемента_в_Периодической_системе_Д_И_Менделеева"><strong>Электроотрицательность</strong></li></ul>
+
+
+
+<p>Это способность атомов оттягивать на себя электроны других атомов в химической связи. Электроотрицательность увеличивается при движении в периодической системе слева направо и снизу вверх. Самым электроотрицательным элементом является фтор, это нужно запомнить!&nbsp;</p>
+
+
+
+<ul id="закономерности_изменения_свойств_высших_оксидов_и_гидроксидов_в_зависимости_от_положения_элемента_в_Периодической_системе_Д_И_Менделеева"><li><strong>Основные свойства высших оксидов/гидроксидов</strong></li></ul>
+
+
+
+<p>Основные свойства зависят от металлических свойств и меняются точно так же — в периодах увеличиваются справа налево, а в группах — сверху вниз.&nbsp;</p>
+
+
+
+<ul><li><strong>Кислотные свойства высших оксидов/гидроксидов</strong></li></ul>
+
+
+
+<p>Кислотные свойства зависят уже от неметаллических свойств и меняются соответствующим образом — увеличиваются слева направо в периодах, а в группах — снизу вверх.</p>
+
+
+
+<ul><li><strong>Высшая/низшая степень окисления</strong></li></ul>
+
+
+
+<p id="умение_определять_возможные_степени_окисления_и_валентности_элемента_по_положению_химического_элемента_в_Периодической_системе_Д_И_Менделеева">Чтобы определить высшую/низшую степень окисления элемента,&nbsp; необходимо смотреть на номер группы, в которой находится элемент: высшая степень окисления равна номеру группы со знаком «плюс» (+N). Низшая c.o. определяется, как разность номера группы и восьми:&nbsp;</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td>Высшая с.o. = N<br>Низшая с.o. = N – 8, <br>где N — номер группы, в которой располагается элемент</td></tr></tbody></table></figure>
+
+
+
+<ul><li><strong>Высшая/низшая валентность</strong>&nbsp;</li></ul>
+
+
+
+<p>Здесь используем следующие правила:&nbsp;</p>
+
+
+
+<p class="has-background" style="background-color:#e9e0f1"><em>Высшая валентность = N&nbsp;</em><br><em>Низшая валентность = 8 — N</em></p>
+
+
+
+<figure id="случаи_несовпадения_валентности_и_степени_окисления" class="wp-block-table"><table><tbody><tr><td><strong>Исключением является азот, у которого максимальная валентность равна IV</strong></td></tr></tbody></table></figure>
+
+
+
+<p>Можно поинтересоваться, <strong>а почему так</strong>? <br>У азота есть только основное состояние атома, в котором три неспаренных электрона и неподеленная электронная пара. Возможность «рассорить» эту пару у азота попросту нет! Поэтому возможны следующие варианты:&nbsp;</p>
+
+
+
+<ul><li>один неспаренный электрон = валентность I;</li><li>два неспаренных электрона = валентность II;</li><li>три неспаренных электрона = валентность III;</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/library/wp-content/uploads/2022/04/2-1.png" alt="" class="wp-image-4461" width="500" height="111" srcset="/library/wp-content/uploads/2022/04/2-1.png 1000w, /library/wp-content/uploads/2022/04/2-1-300x66.png 300w, /library/wp-content/uploads/2022/04/2-1-768x170.png 768w" sizes="(max-width: 500px) 100vw, 500px"></figure></div>
+
+
+
+<ul><li>три неспаренных электрона + неподеленная электронная пара = валентность IV.</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/library/wp-content/uploads/2022/04/3-12.png" alt="" class="wp-image-4462" width="289" height="111" srcset="/library/wp-content/uploads/2022/04/3-12.png 577w, /library/wp-content/uploads/2022/04/3-12-300x115.png 300w" sizes="(max-width: 289px) 100vw, 289px"></figure></div>
+
+
+
+<p class="has-background" style="background-color:#e9e0f1">Аналогичные исключения действует для кислорода и фтора, запоминаем их по аббревиатуре <strong>FON</strong>.&nbsp;</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/library/wp-content/uploads/2022/04/4-14.png" alt="" class="wp-image-4463" width="578" height="427" srcset="/library/wp-content/uploads/2022/04/4-14.png 1000w, /library/wp-content/uploads/2022/04/4-14-300x221.png 300w, /library/wp-content/uploads/2022/04/4-14-768x566.png 768w" sizes="(max-width: 578px) 100vw, 578px"></figure></div>
+
+
+
+<ul id="водородные_соединения_неметаллов_и_металлов_и_закономерности_изменения_их_свойств_исходя_из_их_положения_в_Периодической_системе_Д_И_Менделеева"><li><strong>Кислотные свойства водородных соединений</strong></li></ul>
+
+
+
+<p>В группе кислотные свойства зависят от от радиуса атома — чем больше атом, с которым связан водород, тем легче последнему отщепляться от него, поэтому в группе кислотные свойства усиливаются сверху вниз.</p>
+
+
+
+<p>В периоде кислотные свойства зависят от неметаллических свойств — они увеличиваются слева направо.</p>
+
+
+
+<ul id="изменение_энергии_ионизации_атомов_в_зависимости_от_положения_химического_элемента_в_Периодической_системе_Д_И_Менделеева"><li><strong>Энергия ионизации</strong></li></ul>
+
+
+
+<p>Это энергия, необходимая для отрыва одного электрона от нейтрального атома.<strong> </strong>В группах она увеличивается снизу вверх, в периодах — слева направо.</p>
+
+
+
+<ul id="изменение_сродства_к_электрону_атомов_в_зависимости_от_положения_химического_элемента_в_Периодической_системе_Д_И_Менделеева"><li><strong>Сродство к электрону</strong></li></ul>
+
+
+
+<p>Это энергия, выделяющаяся при присоединении одного электрона к нейтральному атому. Она изменяется аналогично изменению энергии ионизации.</p>
+
+
+
+<h2 class="has-text-align-center" id="part3"><strong>Фактчек</strong></h2>
+
+
+
+<ul><li>Таблица Менделеева состоит из «столбцов», т.е. групп и «строк», т.е. периодов;</li><li>Металлические свойства связаны со способностью отдавать электроны;</li><li>Радиус атома увеличивается при увеличении числа электронных оболочек;</li><li>Высшая валентность для большинства элементов равна номеру группы.</li></ul>
+
+
+
+<h2 class="has-text-align-center" id="part4"><strong>Проверь себя</strong>&nbsp;</h2>
+
+
+
+<p><strong>Задание 1.</strong><br>Какова высшая валентность алюминия?&nbsp;</p>
+
+
+
+<ol><li>I;</li><li>II;</li><li>III;</li><li>IV.</li></ol>
+
+
+
+<p><strong>Задание 2.</strong><br>Водородное соединение какого элемента обладает наибольшими основными свойствами?&nbsp;</p>
+
+
+
+<ol><li>Азот;</li><li>Фосфор;</li><li>Сурьма;</li><li>Мышьяк.</li></ol>
+
+
+
+<p><strong>Задание 3.</strong><br>Из перечисленных элементов металлом является:&nbsp;</p>
+
+
+
+<ol><li>Кремний;</li><li>Франций;</li><li>Радон;</li><li>Астат.</li></ol>
+
+
+
+<p><strong>Задание 4.</strong><br>Гидроксид какого элемента проявляет основные свойства?&nbsp;</p>
+
+
+
+<ol><li>Серы;</li><li>Хлора;</li><li>Рубидия;</li><li>Фосфора.</li></ol>
+
+
+
+<p><strong>Ответы: 1.</strong> — 3 ; <strong>2.</strong> — 1; <strong>3.</strong> — 2; <strong>4.</strong> — 3.</p>
+        </div>
+
+                                    <div class="post__tags">
+                                            <a href="https://umschool.net/library/tag/periodicheskij-zakon/">Периодический закон</a>
+                                                <a href="https://umschool.net/library/tag/himiya/">Химия</a>
+                                        </div>
+                
+            <div class="share">
+    <div class="share__label desktop">Поделитесь статьей  в социальных сетях:</div>
+    <div class="share__list">
+        <a href="https://vk.com/share.php?url=http://umschool.net/libraryhttps://umschool.net/library/himiya/periodicheskij-zakon-i-periodicheskaya-sistema-himicheskih-elementov-d-i-mendeleeva/" class="soc__link soc__link-share soc__link_vk" rel="nofollow" target="_blank"></a>
+<!--        <a href="http://www.twitter.com/intent/tweet?url=--><!--&text=--><!--" class="soc__link soc__link-share soc__link_twitter" rel="nofollow" target="_blank"></a>-->
+    </div>
+</div>
+
+            <div class="rating">
+                <div class="rating__label">Понравилась статья? Оцени:</div>
+                <div class="rating__stars">
+                    <div style="display: none;" class="kk-star-ratings   " data-id="4454" data-slug="">
+    <div class="kksr-stars">
+    <div class="kksr-stars-inactive">
+            <div class="kksr-star" data-star="1">
+            <div class="kksr-icon" style="width: 18px; height: 18px;"></div>
+        </div>
+            <div class="kksr-star" data-star="2">
+            <div class="kksr-icon" style="width: 18px; height: 18px;"></div>
+        </div>
+            <div class="kksr-star" data-star="3">
+            <div class="kksr-icon" style="width: 18px; height: 18px;"></div>
+        </div>
+            <div class="kksr-star" data-star="4">
+            <div class="kksr-icon" style="width: 18px; height: 18px;"></div>
+        </div>
+            <div class="kksr-star" data-star="5">
+            <div class="kksr-icon" style="width: 18px; height: 18px;"></div>
+        </div>
+    </div>
+    <div class="kksr-stars-active" style="width: 0px;">
+            <div class="kksr-star">
+            <div class="kksr-icon" style="width: 18px; height: 18px;"></div>
+        </div>
+            <div class="kksr-star">
+            <div class="kksr-icon" style="width: 18px; height: 18px;"></div>
+        </div>
+            <div class="kksr-star">
+            <div class="kksr-icon" style="width: 18px; height: 18px;"></div>
+        </div>
+            <div class="kksr-star">
+            <div class="kksr-icon" style="width: 18px; height: 18px;"></div>
+        </div>
+            <div class="kksr-star">
+            <div class="kksr-icon" style="width: 18px; height: 18px;"></div>
+        </div>
+    </div>
+</div>
+    <div class="kksr-legend">
+            <span class="kksr-muted"></span>
+    </div>
+</div>
+                </div>
+            </div>
+        
+
+    </article>
